@@ -744,8 +744,8 @@ export const translations = {
     "逃离血色校园"
   ],
   "THE GREAT": [
-    "大",
-    "大"
+    "最後の",
+    "绝境"
   ],
   "ESCAPE": [
     "脱出",
