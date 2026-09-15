@@ -5,7 +5,7 @@ A locked school. An unexplained outbreak. One student determined to bring everyo
 
 **[Play in your browser](https://kris36dev.github.io/CS691_CapstoneProject/)** · [Original capstone demo](Artifacts/demo%20vedio.mp4) · [Technical paper](Artifacts/Technical%20paper/The%20Great%20Escape%20Technical%20Paper.pdf)
 
-![Reina in the locked school](docs/assets/school.jpg)
+[![The Great Escape title screen featuring Reina and the game logo](media/game-title-screen.png)](https://kris36dev.github.io/CS691_CapstoneProject/)
 
 Guide Reina through a school under quarantine, uncover the records behind the outbreak, and help Yui and the surviving students escape. This playable browser adaptation includes three connected chapters, illustrated story sequences, and a final confrontation with Headmaster Kuroda.
 
